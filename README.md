@@ -1,6 +1,8 @@
 # Virtual Mouse
 A Python project that allows you to navigate your computer using your hands, just like a normal mouse. Left and right clicking functionalities are included, as well as dragging and typing through sign language.
 
+## [Project Demo](/demo)
+
 ## Cloning the Repository
 > Make sure to have the following modules installed: `opencv-python`, `mediapipe`, `pyautogui`, `tensorflow`, and `tkinter`.
 
