@@ -9,7 +9,8 @@ A Python project that allows you to navigate your computer using your hands, jus
 1. Choose a preferred directory
 2. Open a terminal and clone the repository: `git clone git@github.com:smgestupa/virtual-mouse.git`
 3. Import the directory with your preferred IDE
-4. Run the application with `python main.py`
+4. Open a terminal in the project folder
+5. Run the application with `python main.py`
 
 ## Instructions
 - `Index Finger` will allow you to move your mouse across the screen
